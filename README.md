@@ -21,7 +21,7 @@ See the [project review](https://eleonoramisino.altervista.org/wp-content/upload
 
 #### Model Interface
 
-<img src="https://github.com/EleMisi/TinyProjects/blob/master/SARS-CoV-2_Simulation/images/ModelOverview.jpg" alt="drawing" width="800"/>
+<img src="https://eleonoramisino.altervista.org/wp-content/uploads/2021/01/ModelOverview.jpg" alt="drawing" width="800"/>
 
 ## Built With
 
